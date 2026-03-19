@@ -1,0 +1,101 @@
+1,disaster_type,document
+2,Flood,"Floods occur when heavy rainfall or overflowing rivers submerge land. They often happen during monsoon seasons. People should move to higher ground, avoid electrical lines, and follow evacuation alerts."
+3,Flash Flood,Flash floods occur suddenly after intense rainfall or dam failure. Water rises rapidly in low areas. People should immediately move to elevated ground and never attempt to walk or drive through floodwater.
+4,Urban Flood,Urban flooding happens when city drainage systems cannot handle heavy rainfall. Streets and buildings become submerged. Authorities recommend avoiding flooded roads and staying indoors.
+5,River Flood,River floods occur when rivers overflow their banks after prolonged rainfall. Communities near rivers should monitor water levels and prepare emergency kits.
+6,Earthquake,Earthquakes occur due to sudden tectonic plate movements beneath the Earth's crust. Buildings may collapse and infrastructure can be damaged. People should take cover under sturdy furniture and avoid windows.
+7,Aftershock,Aftershocks are smaller tremors following a major earthquake. They may continue for days or weeks. People should stay cautious and avoid damaged structures.
+8,Seismic Activity,Seismic activity refers to movements within the Earth's crust that produce earthquakes. Monitoring systems help detect early warning signals.
+9,Cyclone,"Cyclones form over warm ocean waters and bring strong winds, heavy rain, and storm surges. Coastal populations should follow evacuation orders and secure property."
+10,Storm Surge,Storm surges occur when cyclones push ocean water toward coastal areas causing severe flooding. People should evacuate coastal zones when warnings are issued.
+11,Tropical Storm,Tropical storms bring heavy rainfall and strong winds. Residents should stay indoors and keep emergency supplies ready.
+12,Wildfire,Wildfires spread quickly through dry vegetation during hot and windy conditions. People should evacuate early and avoid smoke exposure.
+13,Forest Fire,Forest fires are uncontrolled fires in wooded areas often caused by lightning or human activity. Firefighters use water and fire retardants to control the spread.
+14,Wildfire Smoke,Smoke from wildfires reduces air quality and causes breathing problems. Wearing masks and staying indoors can reduce health risks.
+15,Landslide,Landslides occur when rocks or soil slide down steep slopes due to rainfall earthquakes or erosion. People should avoid mountainous roads during heavy rain.
+16,Mudslide,Mudslides happen when saturated soil flows downhill rapidly. They can destroy homes and block roads. Early evacuation can save lives.
+17,Avalanche,Avalanches occur when snow rapidly slides down mountain slopes. Skiers and mountaineers should check avalanche forecasts before traveling.
+18,Tsunami,Tsunamis are massive ocean waves caused by underwater earthquakes or volcanic eruptions. Coastal residents must move to higher ground after warnings.
+19,Coastal Flood,Coastal flooding occurs when sea levels rise due to storms or tidal surges. Evacuation and sea wall defenses help reduce damage.
+20,Drought,Drought is a prolonged period of low rainfall causing water shortages and crop failure. Water conservation is critical during drought conditions.
+21,Agricultural Drought,Agricultural drought affects soil moisture required for crops. Farmers may experience reduced yields and economic losses.
+22,Heatwave,Heatwaves occur when temperatures remain extremely high for several days. People should stay hydrated and avoid direct sunlight.
+23,Cold Wave,Cold waves bring unusually low temperatures which may cause frostbite and hypothermia. Wearing insulated clothing is essential.
+24,Volcanic Eruption,Volcanic eruptions release lava ash and gases from beneath the Earth's surface. Nearby populations should evacuate and avoid ash inhalation.
+25,Volcanic Ash,Volcanic ash clouds can disrupt air travel and damage crops. Masks and protective eyewear help reduce exposure.
+26,Lava Flow,Lava flows from erupting volcanoes destroy buildings and vegetation. Monitoring volcano activity helps provide early warnings.
+27,Thunderstorm,Thunderstorms produce lightning heavy rain and strong winds. People should avoid open fields and tall isolated trees.
+28,Lightning Strike,Lightning strikes can cause fires and injuries during storms. Staying indoors during thunderstorms reduces risk.
+29,Tornado,Tornadoes are violently rotating columns of air that cause severe destruction. People should seek shelter in basements or sturdy buildings.
+30,Dust Storm,Dust storms occur in dry regions with strong winds lifting sand and dust into the air. Wearing masks and limiting outdoor exposure helps safety.
+31,Glacial Lake Outburst,Glacial lake outburst floods occur when natural dams holding glacier lakes suddenly break releasing large volumes of water.
+32,Pandemic,A pandemic is a widespread outbreak of infectious disease across countries or continents. Vaccination hygiene and distancing help control spread.
+33,Epidemic,An epidemic is a rapid increase in disease cases within a specific region. Public health measures help contain outbreaks.
+34,Industrial Accident,Industrial accidents occur due to equipment failure human error or unsafe conditions in factories. Safety regulations reduce such risks.
+35,Chemical Spill,Chemical spills release hazardous substances into the environment. Protective equipment and emergency response teams handle containment.
+36,Oil Spill,Oil spills occur when petroleum leaks into oceans harming marine life. Cleanup operations and containment booms reduce environmental damage.
+37,Nuclear Accident,Nuclear accidents release radioactive material due to reactor failure or explosions. Evacuation zones and radiation monitoring are necessary.
+38,Building Collapse,Building collapse happens when structural weaknesses or disasters cause structures to fall. Rescue teams search for survivors.
+39,Transportation Accident,Transportation disasters include train derailments airplane crashes or ship accidents. Emergency services provide rescue and medical care.
+40,Mine Disaster,Mine disasters occur due to explosions gas leaks or tunnel collapse underground. Strict safety protocols help prevent accidents.
+41,Gas Leak,Gas leaks release flammable or toxic gases into the air. Immediate evacuation and ventilation are required.
+42,Terrorist Attack,Terrorist attacks involve violent acts intended to create fear and disruption. Security agencies respond quickly to protect civilians.
+43,Bomb Explosion,Bomb explosions cause severe damage injuries and panic. Emergency responders provide rescue and medical assistance.
+44,Fire Accident,Urban fires in homes or buildings spread quickly due to flammable materials. Fire alarms extinguishers and evacuation plans improve safety.
+45,Electrical Fire,Electrical fires occur due to short circuits or faulty wiring. Regular maintenance helps prevent such hazards.
+46,Stampede,Stampedes occur when large crowds panic and move uncontrollably causing injuries. Crowd management and controlled exits improve safety.
+47,Bridge Collapse,Bridge collapses occur due to structural failure overloading or disasters. Emergency rescue operations assist victims.
+48,Dam Failure,Dam failures release large amounts of water causing sudden flooding downstream. Monitoring dam integrity prevents disasters.
+49,Early Warning System,Early warning systems use sensors satellites and communication networks to alert communities about approaching disasters.
+50,Emergency Response,Emergency response teams provide rescue operations medical aid and relief supplies during disasters.
+51,Disaster Preparedness,Disaster preparedness involves planning evacuation routes storing emergency supplies and training communities to respond safely.
+52,Volcanic Eruption,"A volcanic eruption occurs when magma, ash, and gases are expelled from a volcano. People should evacuate nearby areas and avoid ash inhalation."
+53,Avalanche,An avalanche is a rapid flow of snow down a mountain slope. Skiers and mountaineers should monitor weather and avalanche warnings.
+54,Heatwave,A heatwave is a prolonged period of extremely hot weather. Staying hydrated and avoiding outdoor activities during peak heat helps reduce risk.
+55,Cold Wave,A cold wave is a sudden drop in temperature that can cause frostbite and hypothermia. Wearing layered clothing and staying indoors is recommended.
+56,Blizzard,A blizzard is a severe snowstorm with strong winds and low visibility. People should stay indoors and avoid unnecessary travel.
+57,Hailstorm,"Hailstorms produce balls of ice that can damage crops, vehicles, and buildings. Shelter and protective roofing can reduce damage."
+58,Thunderstorm,"Thunderstorms bring lightning, heavy rain, and strong winds. Avoid open areas and unplug electrical appliances during storms."
+59,Dust Storm,Dust storms occur in dry regions when strong winds lift dust into the air. Wearing masks and staying indoors helps protect health.
+60,Sandstorm,Sandstorms are intense windstorms carrying sand particles. People should cover their eyes and nose to prevent irritation.
+61,Glacial Lake Outburst Flood,This occurs when a glacial lake suddenly releases water due to dam failure. Communities near glaciers should monitor lake levels.
+62,Urban Flood,Urban floods happen when drainage systems fail during heavy rainfall. Proper urban planning helps mitigate risks.
+63,Flash Flood,Flash floods occur suddenly due to intense rainfall. Immediate evacuation to higher ground is essential.
+64,Storm Surge,Storm surges are abnormal rises in sea level during storms. Coastal areas should follow evacuation guidelines.
+65,Coastal Erosion,Coastal erosion occurs when waves and currents remove soil along coastlines. Sea walls and vegetation help reduce erosion.
+66,Sinkhole,Sinkholes occur when ground collapses due to underground voids. Avoid construction on unstable land areas.
+67,Mine Collapse,Mine collapses happen due to structural failures underground. Proper safety regulations help prevent accidents.
+68,Oil Spill,Oil spills release petroleum into oceans causing environmental damage. Quick containment helps reduce harm.
+69,Chemical Leak,Chemical leaks release hazardous substances into the environment. Evacuation and protective gear are essential.
+70,Nuclear Accident,Nuclear accidents involve radiation leakage from reactors. Authorities must enforce evacuation and containment measures.
+71,Industrial Explosion,Industrial explosions occur in factories due to chemical reactions or gas leaks. Safety inspections reduce such risks.
+72,Building Collapse,Buildings may collapse due to structural weakness or disasters. Strict building codes help prevent such incidents.
+73,Bridge Collapse,Bridge collapse occurs due to structural failure or overload. Regular inspections ensure safety.
+74,Train Derailment,Train derailments occur when trains leave the track due to faults or obstacles. Monitoring rail infrastructure is crucial.
+75,Airplane Crash,Airplane crashes result from mechanical failure or weather conditions. Aviation safety standards minimize risks.
+76,Shipwreck,"Shipwrecks occur due to storms, collisions, or navigation errors. Maritime safety systems help prevent disasters."
+77,Forest Fire,Forest fires spread rapidly through dry vegetation. Firebreaks and monitoring reduce wildfire risks.
+78,Grassland Fire,Grassland fires occur in dry plains and spread quickly with wind. Early detection is essential.
+79,Peat Fire,Peat fires burn underground organic material and are difficult to extinguish. Water saturation helps control them.
+80,Methane Explosion,Methane explosions occur in mines or industrial areas due to gas accumulation. Proper ventilation is required.
+81,Gas Pipeline Explosion,Pipeline explosions release flammable gases causing fires. Regular inspections reduce such incidents.
+82,Dam Break,Dam breaks release massive water causing catastrophic floods downstream. Structural monitoring prevents failures.
+83,Power Grid Failure,Power grid failures cause widespread electricity outages. Backup systems ensure continuity.
+84,Cyber Attack on Infrastructure,Cyber attacks can disrupt critical infrastructure like power and transport systems. Strong cybersecurity is essential.
+85,Pandemic,Pandemics are global outbreaks of infectious diseases. Vaccination and public health measures help control spread.
+86,Epidemic,An epidemic is a rapid spread of disease within a region. Early detection and treatment help contain outbreaks.
+87,Locust Swarm,Locust swarms devastate crops across large regions. Monitoring and pesticides help control them.
+88,Crop Failure,"Crop failure occurs due to drought, pests, or disease. Diversified agriculture reduces impact."
+89,Water Contamination,Water contamination occurs when harmful substances pollute water supplies. Water treatment ensures safety.
+90,Food Shortage,Food shortages occur when supply fails due to disasters or conflict. Strategic reserves help manage crises.
+91,Refugee Crisis,Refugee crises arise when disasters or conflicts displace populations. Humanitarian aid provides support.
+92,Civil Unrest,Civil unrest can disrupt social stability and cause property damage. Conflict resolution strategies help maintain peace.
+93,Terrorist Attack,Terrorist attacks cause destruction and fear in societies. Security measures help prevent such events.
+94,Mass Shooting,Mass shootings involve firearm violence in public spaces. Law enforcement and security monitoring reduce risks.
+95,Space Debris Impact,Space debris can fall to Earth causing localized damage. Monitoring orbital objects helps predict risks.
+96,Meteor Impact,"Meteor impacts occur when space rocks strike Earth. Though rare, monitoring helps detect potential threats."
+97,Solar Storm,Solar storms can disrupt satellites and power grids. Space weather forecasting helps prepare systems.
+98,Electromagnetic Pulse,EMP events can disable electronic devices over large areas. Shielding technology protects critical systems.
+99,Water Dam Overflow,Overflow occurs when dams exceed capacity during heavy rainfall. Controlled water release prevents disasters.
+100,Riverbank Erosion,Riverbank erosion gradually removes soil near rivers. Reinforcement structures protect communities.
+101,Ice Storm,Ice storms coat surfaces with freezing rain causing damage and power outages. Staying indoors is advised.
